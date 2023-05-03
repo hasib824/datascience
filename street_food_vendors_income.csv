@@ -1,0 +1,34 @@
+food_type,unit_price,location,shop_open_hours,vendors_experience,hygeine,daily_income
+Chinese,50,Mirpur,8,3,4.5,800
+Food Type,Unit Price,Location,Shop Open Hours,Vendor Experience,Hygiene,Daily Income
+Fast food,50,Gulshan,12,2,7,1500
+BBQ,80,Dhanmondi,10,4,8,2500
+Biryani,120,Mirpur 1,8,5,6,1800
+Tea & Snacks,20,Uttara,14,1,9,800
+Juice,70,Banani,11,3,7,2100
+Burger,60,Mohammadpur,9,2,6,1200
+Biryani,100,Mirpur 2,8,4,8,2200
+Noodles,40,Khilgaon,13,1,6,700
+Pizza,90,Baridhara,12,3,8,3000
+Tea & Snacks,15,Jatrabari,15,1,7,600
+BBQ,100,Mohammadpur,10,5,9,3500
+Biryani,80,Dhanmondi,11,3,7,1800
+Fast food,60,Banani,10,2,8,1500
+Juice,50,Uttara,9,1,6,1200
+Burger,70,Mirpur 1,8,2,7,1400
+Noodles,30,Mohammadpur,12,1,7,800
+Biryani,150,Gulshan,7,6,8,4500
+Pizza,100,Baridhara,11,4,9,3200
+BBQ,120,Dhanmondi,9,5,8,3500
+Tea & Snacks,25,Mirpur 2,14,1,7,900
+Fast food,40,Banani,11,1,6,1000
+Juice,60,Mohammadpur,10,3,8,1800
+Burger,50,Jatrabari,9,2,6,1100
+Biryani,90,Uttara,8,4,9,2500
+Pizza,120,Gulshan,12,5,8,4000
+BBQ,70,Khilgaon,10,3,7,1500
+Fast food,30,Mirpur 1,13,1,7,800
+Tea & Snacks,10,Banani,16,1,8,500
+Noodles,50,Dhanmondi,11,2,7,1200
+Biryani,80,Mohammadpur,9,3,8,1800
+Juice,40,Mirpur 2,13,1,6,900
