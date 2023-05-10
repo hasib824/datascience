@@ -1,0 +1,113 @@
+index,food_type,daily_income,location,shop_open_hours,vendors_experience_year,hygiene
+1,Fast Food,2250,market area,7,2,3.6
+2,Fast Food,1900,bus stand area,8,3,3.6
+3,Fast Food,1700,hospital area,7,1,3.5
+4,Fast Food,1800,market area,7,2.5,3.5
+5,Fast Food,2100,bus stand area,8,5,4
+6,Fast Food,2500,market area,6,3,3.6
+7,Fast Food,1600,hospital area,7,3,3.6
+8,Fast Food,1700,bus stand area,7,1.5,3.8
+9,Fast Food,1800,market area,8,4.5,3.5
+10,Fast Food,1900,market area,7,3.5,3.4
+11,Fast Food,1900,hospital area,7,3.5,3.2
+12,Fast Food,1800,bus stand area,8,2,3.3
+13,Fast Food,1900,market area,7,3,3.8
+14,Fast Food,2200,market area,7,3,3.6
+15,Fast Food,1800,bus stand area,6,3,3.2
+16,Halim,2700,market area,7,2.5,3.3
+17,Halim,2900,market area,8,5,3.8
+18,Halim,2800,market area,7,4,4
+19,Halim,2600,bus stand area,7,2,3.5
+20,Halim,2800,bus stand area,8,4.5,4
+21,Halim,3000,market area,6,2.5,3.7
+22,Halim,2500,market area,7,3,4
+23,Halim,2700,market area,7,2.5,3.5
+24,Halim,2900,market area,8,4,3.9
+25,Halim,2800,market area,7,3.5,4
+26,Halim,2600,bus stand area,8,2,3.5
+27,Halim,2800,market area,8,4.5,4
+28,Halim,3000,market area,8,6,3.6
+29,Halim,2500,bus stand area,7,3,3.5
+30,Tea Stall,800,hospital area,10,0.5,2.5
+31,Tea Stall,1200,hospital area,15,5,4
+32,Tea Stall,1500,market area,12,4,3
+33,Tea Stall,900,hospital area,10,1.5,3.1
+34,Tea Stall,2500,market area,12,3,3.9
+35,Tea Stall,1800,bus stand area,12,3.5,3.5
+36,Tea Stall,3000,market area,14,4,3.9
+37,Tea Stall,700,bus stand area,10,1,3.9
+38,Tea Stall,1200,market area,15,15,3.3
+39,Tea Stall,1500,hospital area,12,4,3.9
+40,Tea Stall,900,bus stand area,10,7,3.2
+41,Tea Stall,2500,market area,14,3,4
+42,Tea Stall,1800,educational institute area,12,3.5,3.5
+43,Tea Stall,3000,market area,15,7,3.6
+44,Tea Stall,700,hospital area,5,2,3.7
+45,Tea Stall,1200,educational institute area,15,6.5,3.6
+46,Chotpoti and Fuchka,1800,bus stand area,6,1,3.5
+47,Chotpoti and Fuchka,1700,bus stand area,7,0.5,3.9
+48,Chotpoti and Fuchka,1900,educational institute area,7,3,3.7
+49,Chotpoti and Fuchka,1500,educational institute area,6,1.5,3.8
+50,Chotpoti and Fuchka,1800,market area,7,8,3.5
+51,Chotpoti and Fuchka,2000,market area,8,3.5,3.6
+52,Chotpoti and Fuchka,1700,market area,6,2.5,4
+53,Chotpoti and Fuchka,1900,bus stand area,7,4,3.9
+54,Chotpoti and Fuchka,1600,educational institute area,8,2.5,3.5
+55,Chotpoti and Fuchka,1800,bus stand area,6,1.5,3.6
+56,Chotpoti and Fuchka,1900,market area,7,3,3.7
+57,Chotpoti and Fuchka,2000,market area,8,4,3.8
+58,Juice Bar,1500,market area,8,3.5,4.1
+59,Juice Bar,1200,bus stand area,7,2,4
+60,Juice Bar,1800,market area,9,4.5,4.2
+61,Juice Bar,1000,hospital area,7,1,4
+62,Juice Bar,2000,bus stand area,10,4,4
+63,Juice Bar,1900,market area,8,3.5,4
+64,Juice Bar,1300,educational institute area,7,2.5,3.5
+65,Juice Bar,2200,market area,8,4,3.8
+66,Juice Bar,1000,educational institute area,7,6,4.1
+67,Beverage,800,bus stand area,8,3,3.8
+68,Beverage,900,market area,6,2,4
+69,Beverage,700,educational institute area,10,1.5,3.9
+70,Beverage,600,educational institute area,7,0.5,3.6
+71,Beverage,1000,market area,9,4,4.1
+72,Beverage,800,market area,6,2.5,3.4
+73,Beverage,900,market area,8,1,2.5
+74,Chola and Muri,800,bus stand area,6,3,3.5
+75,Chola and Muri,700,educational institute area,5,2,3.7
+76,Chola and Muri,900,market area,7,3.5,3.5
+77,Chola and Muri,600,hospital area,6,1,3.6
+78,Chola and Muri,800,educational institute area,5,2.5,3.8
+79,Chola and Muri,900,market area,6,3,3.6
+80,Chola and Muri,700,educational institute area,7,1.5,3.3
+81,Chola and Muri,800,market area,5,2,3.5
+82,Chola and Muri,1000,market area,7,3.5,3.4
+83,Egg,2000,hospital area,10,2,4
+84,Egg,900,market area,7,3,3.5
+85,Egg,1500,bus stand area,12,4,3.4
+86,Egg,800,market area,8,2.5,3.4
+87,Egg,1800,hospital area,11,6,3.8
+88,Egg,1000,bus stand area,7,3.5,3.5
+89,Egg,1600,market area,10,4,3.9
+90,Puri & Shingara,700,market area,6,3,3.5
+91,Puri & Shingara,800,educational institute area,5,5,3.7
+92,Puri & Shingara,600,bus stand area,7,4,4
+93,Puri & Shingara,900,market area,6,2,3.7
+94,Puri & Shingara,600,market area,5,3.5,3.5
+95,Puri & Shingara,700,hospital area,7,4,4
+96,Puri & Shingara,800,market area,6,2.5,3.8
+97,Puri & Shingara,600,educational institute area,5,4,4
+98,Puri & Shingara,700,market area,7,2,3.4
+99,Puri & Shingara,1100,market area,8,2,3.7
+100,Kabab,2800,market area,7,5,3.8
+101,Kabab,2000,bus stand area,6,8,3.5
+102,Kabab,3200,market area,7,5,3.7
+103,Kabab,1800,bus stand area,7,3,3.8
+104,Kabab,3000,bus stand area,6,5.5,3.9
+105,Kabab,2200,market area,8,4.5,4
+106,Kabab,3500,market area,8,5.5,3.8
+107,Chutney,800,educational institute area,7,4,3.5
+108,Chutney,1000,educational institute area,6,3.5,3.7
+109,Chutney,600,bus stand area,8,2,4
+110,Chutney,900,educational institute area,5,5,3.7
+111,Chutney,700,market area,7,3.5,4
+112,Chutney,1100,educational institute area,6,4,3.9
