@@ -1,0 +1,113 @@
+food_type,daily_income,location,shop_open_hours,vendors_experience_year,hygiene
+Fast Food,2250,market area,7,2,3.6
+Fast Food,1900,bus stand area,8,3,3.6
+Fast Food,1700,hospital area,7,1,3.5
+Fast Food,1800,market area,7,2.5,3.7
+Fast Food,2100,bus stand area,8,5,4
+Fast Food,2500,market area,6,3,3.6
+Fast Food,1600,hospital area,7,3,3.8
+Fast Food,1700,bus stand area,7,4,3.8
+Fast Food,1800,market area,8,4.5,3.5
+Fast Food,1900,market area,7,3.5,3.4
+Fast Food,1900,hospital area,7,3.5,3.2
+Fast Food,1800,bus stand area,8,2,3.8
+Fast Food,1900,market area,7,5,3.8
+Fast Food,2200,market area,7,3,3.6
+Fast Food,1800,bus stand area,6,3,3.8
+Halim,2700,market area,7,2.5,3.8
+Halim,2900,market area,8,5,3.7
+Halim,2800,market area,7,4,4
+Halim,2600,bus stand area,7,2,3.8
+Halim,2800,bus stand area,8,4.5,4
+Halim,3000,market area,6,2.5,3.7
+Halim,2500,market area,7,3,4
+Halim,2700,market area,7,2.5,3.5
+Halim,2900,market area,8,4,3.3
+Halim,2800,market area,7,3.5,4
+Halim,2600,bus stand area,8,2,3.8
+Halim,2800,market area,8,4.5,4
+Halim,3000,bus stand area,8,4,3.6
+Halim,2500,bus stand area,7,6,3.8
+Tea Stall,800,hospital area,10,2,3.8
+Tea Stall,1200,hospital area,15,5,4
+Tea Stall,1500,market area,12,4,3.9
+Tea Stall,900,hospital area,10,1.5,3.6
+Tea Stall,2500,market area,12,3,3.7
+Tea Stall,1800,bus stand area,12,3.5,3.5
+Tea Stall,3000,market area,14,4,3.5
+Tea Stall,700,bus stand area,10,3,3.8
+Tea Stall,1200,market area,15,10,3.7
+Tea Stall,1500,hospital area,12,4,3.9
+Tea Stall,900,bus stand area,10,7,3.2
+Tea Stall,2500,market area,14,3,3.6
+Tea Stall,1800,educational institute area,12,3.5,3.8
+Tea Stall,3000,market area,15,7,3.6
+Tea Stall,700,hospital area,5,2,3.7
+Tea Stall,1200,educational institute area,15,6.5,3.6
+Chotpoti and Fuchka,1800,bus stand area,6,2,3.5
+Chotpoti and Fuchka,1700,bus stand area,7,4,3.9
+Chotpoti and Fuchka,1900,educational institute area,7,3,3.9
+Chotpoti and Fuchka,1500,educational institute area,6,2,3.8
+Chotpoti and Fuchka,1800,market area,7,8,3.8
+Chotpoti and Fuchka,2000,market area,8,3.5,3.6
+Chotpoti and Fuchka,1700,market area,6,3,4
+Chotpoti and Fuchka,1900,bus stand area,7,4,3.9
+Chotpoti and Fuchka,1600,educational institute area,8,2.5,3.8
+Chotpoti and Fuchka,1800,bus stand area,6,1.5,3.6
+Chotpoti and Fuchka,1900,market area,7,3,3.7
+Chotpoti and Fuchka,2000,market area,8,4,3.8
+Juice Bar,1500,market area,8,3.5,3.9
+Juice Bar,1200,bus stand area,7,2,4
+Juice Bar,1800,market area,9,4.5,3.8
+Juice Bar,1000,hospital area,7,1,4
+Juice Bar,2000,bus stand area,10,4,3.8
+Juice Bar,1900,market area,8,3.5,3.7
+Juice Bar,1300,educational institute area,7,2.5,3.5
+Juice Bar,2200,market area,8,4,3.8
+Juice Bar,1000,educational institute area,7,6,4.1
+Beverage,800,bus stand area,8,3,3.8
+Beverage,900,market area,6,2,3.9
+Beverage,700,educational institute area,10,1.5,3.9
+Beverage,600,educational institute area,7,0.5,3.8
+Beverage,1000,market area,9,4,4
+Beverage,800,market area,6,5,3.7
+Beverage,900,market area,8,4,4.1
+Chola and Muri,800,bus stand area,6,3,3.5
+Chola and Muri,700,educational institute area,5,2,3.9
+Chola and Muri,900,market area,7,3.5,3.5
+Chola and Muri,600,hospital area,6,3,3.7
+Chola and Muri,800,educational institute area,5,2.5,3.8
+Chola and Muri,900,market area,6,3,3.6
+Chola and Muri,700,educational institute area,7,1.5,3.6
+Chola and Muri,800,market area,5,2,3.5
+Chola and Muri,1000,market area,7,3.5,3.4
+Egg,2000,hospital area,10,2,4
+Egg,900,market area,7,4,3.5
+Egg,1500,bus stand area,12,4,3.4
+Egg,800,market area,8,2.5,3.4
+Egg,1800,hospital area,11,6,3.8
+Egg,1000,bus stand area,7,3.5,3.5
+Egg,1600,market area,10,4,3.6
+Puri & Shingara,700,market area,6,3,3.5
+Puri & Shingara,800,educational institute area,5,5,3.9
+Puri & Shingara,600,bus stand area,7,4,4
+Puri & Shingara,900,market area,6,2,3.7
+Puri & Shingara,600,market area,5,3.5,3.5
+Puri & Shingara,700,hospital area,7,4,4
+Puri & Shingara,800,market area,6,2.5,3.8
+Puri & Shingara,600,educational institute area,5,4,4
+Puri & Shingara,700,market area,7,2,3.6
+Puri & Shingara,1100,bus stand area,8,2,3.6
+Kabab,2800,market area,7,5,3.8
+Kabab,2000,bus stand area,6,8,4
+Kabab,3200,market area,7,5,3.6
+Kabab,1800,bus stand area,7,4,3.8
+Kabab,3000,bus stand area,6,5.5,3.8
+Kabab,2200,market area,8,4,4
+Kabab,3500,market area,8,5,3.7
+Chutney,800,educational institute area,7,4,3.5
+Chutney,1000,educational institute area,6,3.5,3.6
+Chutney,600,bus stand area,8,3.5,4
+Chutney,900,educational institute area,5,5,3.7
+Chutney,700,market area,7,3.5,4
+Chutney,1100,educational institute area,6,4,3.5
